@@ -1,0 +1,14 @@
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/src/CMakeFiles/tables.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/samples/CMakeFiles/TTableTestkit.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/samples/CMakeFiles/edit_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/samples/CMakeFiles/rebuild_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/gtest/CMakeFiles/gtest.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/gtest/CMakeFiles/edit_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/gtest/CMakeFiles/rebuild_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/test/CMakeFiles/test_tables.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab7-tables-master/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir
